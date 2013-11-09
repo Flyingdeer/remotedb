@@ -18,7 +18,7 @@ Scroll through the hours and minutes to choose when your alarm will go off. Sele
 
  
 
-Select your desired hour and minute from the list of numbers. You can customize other options such as alarm “sound” which are listed at the bottom of the screen.
+Scroll through the hours and minutes to choose when you want the alarm to go off. You can customize other options such as alarm “sound” which are listed at the bottom of the screen.
 
  
 
