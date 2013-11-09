@@ -14,7 +14,7 @@ At the bottom of the screen there is a row of tabs. Select the “Alarm” tab, whic
 
 4. Set your alarm.
 
-Scroll through the hours and minutes to choose when your alarm will go off. Select “AM” or “PM” to choose whether you want your alarm to go off in the morning or during the day.
+Scroll through the hours and minutes to choose when your want alarm will go off. Select “AM” or “PM” to choose whether you want your alarm to go off in the morning or during the day.
 
  
 
